@@ -4,7 +4,7 @@ import os
 
 
 # NOTES:
-# get rid of miliseconds on delay time
+# get rid of milliseconds on delay time
 # Make it so it can go back to where you were, if you mess up and get an invalid error
 # add input condition checks
 
